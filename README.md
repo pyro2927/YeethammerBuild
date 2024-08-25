@@ -1,6 +1,6 @@
 # Yeethammer
 
-> [!IMPORANT]
+> [!IMPORTANT]
 > This guide is still in progress.
 
 This is meant to be a build guide for Spyr's [Yeethammer](https://www.printables.com/model/924680-yeethammer).
