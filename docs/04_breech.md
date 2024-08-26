@@ -25,12 +25,18 @@
 * `breech-cover-l`
 * `breech-cover-r`
 * `picatinny-top`
+* `plunger-cover-top`
+* `plunger-cover-r`
+* `plunger-cover-l`
+* `cam-track-cover-r`
+* `cam-track-cover-l`
 
 ### Other Materils
 
-* 40mm M3 bolt x 2
+* 8mm M3 bolt x 5
 * 12mm M3 bolt x 1
-* 8mm M3 bolt x 3
+* 16mm M3 bolt x 2
+* 40mm M3 bolt x 2
 * M3 hex nut x 6
 * Bowden tubes
 * Dowel pin x 1
@@ -97,4 +103,20 @@ Slide the three-piece assembly over the back of the breech, making sure the inne
 ![](../img/04/12.jpg)
 
 Finally, secure `picatinny-top` with a 12mm bolt in the rear, and 8mm bolt in the front. This part has an arrow printed on the bottom to show which way it should point (arrow forward).
+
 ![](../img/04/13.jpg)
+
+Now that the cam tracks are in place, the `plunger-cover-top`, `-l`, and `-r` can be combined and slid over the plunger.
+
+![](../img/04/14.jpg)
+
+The easiest way to do this is likely to manually pull the plunger tube back, causing the breech to open, giving you room to have the plunger cover assembly slightly forward and able to have the rails/channels on the upper side lined up.
+
+![](../img/04/15.jpg)
+
+Once in place, secure it with two 8mm bolts in the rear, and two 16mm bolts going through `cam-track-cover-r`/`-l`.
+
+![](../img/04/16.jpg)
+
+> [!NOTE]
+> Yes, I recognize the end here feels like it should be with the "plunger" instructions, but the covers can't be put on until the cam tracks are in place.
