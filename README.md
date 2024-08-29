@@ -10,3 +10,5 @@ This is meant to be a build guide for Spyr's [Yeethammer](https://www.printables
 2. [Grip](./docs/02_grip.md)
 3. [Plunger](./docs/03_plunger.md)
 4. [Breech](./docs/04_breech.md)
+5. [Buttstock](./docs/05_buttstock.md)
+6. [Final](./docs/06_final.md)
